@@ -1,14 +1,7 @@
 /****************************************** 
-*
-*     Backend snippets for Woocommerce 
-*     
+*     Backend snippets for Woocommerce
 *     TOC
 *     1. Product custom fields 
-*     
-*
-*
-*
-*
 ******************************************/
 
 
